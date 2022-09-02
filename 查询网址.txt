@@ -1,0 +1,1 @@
+https://pass.hust.edu.cn/cas/login?service=http%3A%2F%2Fmhub.hust.edu.cn%2Fcas%2Flogin%3FredirectUrl%3D%2FkxjsPageController%2Fby-sy
